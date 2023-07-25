@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Planeto App</string>
+    <string name="planeto">Planeto</string>
+    <string name="ohhhhh">Ohhhhh!!!</string>
+    <string name="know_more"><![CDATA[Know more >]]></string>
+    <string name="book_your_ride"><![CDATA[Book Your Ride >]]></string>
+    <string name="_54_6km">54.6 km</string>
+    <string name="_3_311_m_ss">3.311 m/ss</string>
+    <string name="earth">Earth</string>
+    <string name="milkyway_galaxy">MilkyWay Galaxy</string>
+    <string name="overview">Overview</string>
+    <string name="EarthDesc">Earth is the third planet from the Sun and the only astronomical object known to harbor and support life. About 29.2% of Earth\'s surface is land consisting of continents and islands. The remaining 70.8% is covered with wat</string>
+    <string name="appName">PLANETO</string>
+    <string name="app_explore">Explore The Universe With Us</string>
+    <string name="app_booking">Book Your Ride</string>
+    <string name="final_serviceMsg">It seems your planet is not serviceable currently</string>
+    <string name="final_worry">But don\'t worry..</string>
+    <string name="final_elon">ELON is trying something....</string>
+    <string name="planeto_main">PLANETO</string>
+</resources>
